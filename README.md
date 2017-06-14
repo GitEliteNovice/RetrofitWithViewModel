@@ -5,6 +5,10 @@ The ViewModel class is designed to store and manage UI-related data so that the 
 # How to add viewModel
 https://developer.android.com/topic/libraries/architecture/adding-components.html
 # Benfifts
+
 *Avoid memory leaks.
+
 *we don't have to save objects when orentation changes.
+
+
 *don't load data again and on every recreate. 
