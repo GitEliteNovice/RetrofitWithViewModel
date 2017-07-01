@@ -4,7 +4,7 @@ How to get data from api using Retrofit through ViewModel
 The ViewModel class is designed to store and manage UI-related data so that the data survives configuration changes such as screen rotations.
 # How to add viewModel
 https://developer.android.com/topic/libraries/architecture/adding-components.html
-# Benfifts
+# Benifits
 
 *Avoid memory leaks.
 
