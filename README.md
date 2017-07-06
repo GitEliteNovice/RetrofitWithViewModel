@@ -12,3 +12,6 @@ https://developer.android.com/topic/libraries/architecture/adding-components.htm
 
 
 *don't load data again and on every recreate. 
+
+
+*Help to minimize resources reuse.
